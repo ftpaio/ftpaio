@@ -1,5 +1,5 @@
 <h2> Hi, I'm Nitrix! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://i.postimg.cc/dVr44pKN/cdd0472d-4796-4187-b555-ec3e433cddfe.jpg" width="230">
 <p><em>Intermediate Developer who loves working on innovative projects and exploring new technologies!</em></p>
 
 [![Instagram: Nitrix](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/your_instagram_handle/)
