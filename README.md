@@ -3,7 +3,7 @@
 <p><em>Intermediate Developer who loves working on innovative projects and exploring new technologies!</em></p>
 
 [![Instagram: Nitrix](https://img.shields.io/badge/-INSTA-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/nitrix4ly/)
-[![GitHub Nitrix](https://img.shields.io/github/followers/your_github_username?label=follow&style=social)](https://github.com/ftpskid)
+[![GitHub Nitrix](https://img.shields.io/github/followers/ftpskid?label=follow&style=social)](https://github.com/ftpskid)
 
 ### 📊 A little more about me...  
 
