@@ -5,7 +5,7 @@
 [![Instagram: Nitrix](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/your_instagram_handle/)
 [![GitHub Nitrix](https://img.shields.io/github/followers/your_github_username?label=follow&style=social)](https://github.com/ftpskid)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### 📊 A little more about me...  
 
 ```python
 vaxera = {
