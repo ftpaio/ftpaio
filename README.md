@@ -1,4 +1,4 @@
-<h2> Hi, I'm Vaxera! 👋 </h2>
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 <img align='right' src="https://i.postimg.cc/dVr44pKN/cdd0472d-4796-4187-b555-ec3e433cddfe.jpg" width="230">
 <p><em>Intermediate Developer who loves working on innovative projects and exploring new technologies!</em></p>
 
