@@ -5,7 +5,7 @@
 [![Instagram: Nitrix](https://img.shields.io/badge/-INSTA-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/nitrix4ly/)
 [![GitHub Nitrix](https://img.shields.io/github/followers/ftpskid?label=follow&style=social)](https://github.com/ftpskid)
 
-### 🔖 My Statistics  
+### 📊 My Statistics  
 
 ```python
 vaxera = {
