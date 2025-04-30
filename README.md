@@ -8,7 +8,7 @@
 ### 📊 My Statistics  
 
 ```python
-vaxera = {
+nitrix = {
   pronouns: "he" | "him",
   code: ["Python", "HTML", "CSS", "SQL"],
   tools: ["SQLite3", "Discord.py", "Flask"],
