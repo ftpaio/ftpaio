@@ -17,4 +17,7 @@ nitrix = {
 }
 ```
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitrix4ly&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-# ![](https://visitcount.itsvg.in/api?id=nitrix4ly&icon=1&color=12)
+- [**Project 1**](https://github.com/yourusername/project1) — Python + Flask + SQLite — A REST API for managing tasks.
+- [**Project 2**](https://github.com/yourusername/project2) — TypeScript + React — A sleek dashboard for visualizing data.
+- [**Project 3**](https://github.com/yourusername/project3) — Node.js + Express — Realtime chat app using WebSoc
+ket.
