@@ -16,6 +16,5 @@ nitrix = {
   challenge: "Currently building projects with advanced features and working on my SQL skills"
 }
 ```
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ftpskid&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-
-# ![](https://visitcount.itsvg.in/api?id=ftpskid&icon=1&color=12)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitrix4ly&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# ![](https://visitcount.itsvg.in/api?id=nitrix4ly&icon=1&color=12)
