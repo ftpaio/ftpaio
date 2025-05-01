@@ -17,4 +17,4 @@ nitrix = {
 }
 ```
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitrix4ly&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![Divider](https://i.postimg.cc/4y9TLvgW/3297c4f9-330a-48b1-9f6f-6733fcb9cd95.jpg)
+![Divider](https://i.postimg.cc/Pxwj2GYg/image.jpg)
