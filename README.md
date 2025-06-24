@@ -10,10 +10,10 @@
 ```python
 nitrix = {
   pronouns: "he" | "him",
-  code: ["Python", "HTML", "CSS", "SQL"],
+  code: ["Python", "Golang", "HTML", "CSS", "SQL"],
   tools: ["SQLite3", "Discord.py", "Flask"],
   interests: ["opensource development", "backend systems", "database management"],
-  challenge: "Currently building projects with advanced features and working on my SQL skills"
+  challenge: "Currently building projects with advanced features and working on my Golang skills"
 }
 ```
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitrix4ly&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
