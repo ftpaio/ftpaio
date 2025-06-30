@@ -34,34 +34,34 @@ const nitrix4ly = {
 - [Mini Flask API](https://github.com/nitrix4ly/flask-api)
 - [Portfolio Site](https://github.com/nitrix4ly/portfolio)
 
-<h2 align="center">ðŸ’» Favourite Tools and Technologies:</h2>
+<h2 align="center">💻 Favourite Tools and Technologies:</h2>
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" width="52" height="52" alt="Python" /><br>Python</td>
+        <img src="https://skillicons.dev/icons?i=python" width="42" height="42" alt="Python" /><br>Python</td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=go" width="52" height="52" alt="Golang" /><br>Golang</td>
+        <img src="https://skillicons.dev/icons?i=go" width="42" height="42" alt="Golang" /><br>Golang</td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="52" height="52" alt="HTML" /><br>HTML</td>
+        <img src="https://skillicons.dev/icons?i=html" width="42" height="42" alt="HTML" /><br>HTML</td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="52" height="52" alt="CSS" /><br>CSS</td>
+        <img src="https://skillicons.dev/icons?i=css" width="42" height="42" alt="CSS" /><br>CSS</td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="52" height="52" alt="Bootstrap" /><br>Bootstrap</td>
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="42" height="$2" alt="Bootstrap" /><br>Bootstrap</td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=javascript" width="52" height="52" alt="JavaScript" /><br>JavaScript</td>
+        <img src="https://skillicons.dev/icons?i=javascript" width="42" height="42" alt="JavaScript" /><br>JavaScript</td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="52" height="52" alt="Git" /><br>Git</td>
+        <img src="https://skillicons.dev/icons?i=git" width="42" height="42" alt="Git" /><br>Git</td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="52" height="52" alt="MongoDB" /><br>MongoDB</td>
+        <img src="https://skillicons.dev/icons?i=mongodb" width="42" height="42" alt="MongoDB" /><br>MongoDB</td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="52" height="52" alt="MySQL" /><br>MySQL</td>
+        <img src="https://skillicons.dev/icons?i=mysql" width="42" height="42" alt="MySQL" /><br>MySQL</td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="52" height="52" alt="VsCode" /><br>VsCode
+        <img src="https://skillicons.dev/icons?i=vscode" width="42" height="42" alt="VsCode" /><br>VsCode
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=aws" width="52" height="52" alt="AWS" /><br>AWS
+        <img src="https://skillicons.dev/icons?i=aws" width="42" height="42" alt="AWS" /><br>AWS
     </td>
 </tr>
 </table>
