@@ -18,7 +18,7 @@ const nitrix4ly = {
             python: ["Flask", "FastAPI"],
             go: ["net/http"]
         },
-        databases: ["MongoDB", "SQLite"],
+        databases: ["MongoDB", "SQLite3"],
         misc: ["Git", "Socket.IO"]
     },
     architecture: ["REST API", "Monolithic"],
