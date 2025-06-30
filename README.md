@@ -30,9 +30,8 @@ const nitrix4ly = {
 
 *Projects*
 
-- [Discord Bot System](https://github.com/nitrix4ly/discord-bot)
-- [Mini Flask API](https://github.com/nitrix4ly/flask-api)
-- [Portfolio Site](https://github.com/nitrix4ly/portfolio)
+- [Triff Database](https://github.com/nitrix4ly/triff)
+- [Oxius Requests](https://github.com/nitrix4ly/oxius)
 
 <h2 align="center">💻 Favourite Tools and Technologies:</h2>
 
