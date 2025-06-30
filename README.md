@@ -53,6 +53,8 @@ const nitrix4ly = {
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="42" height="42" alt="MongoDB" /><br>MongoDB</td>
     <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="42" height="42" alt="SQLite3"/>
+        <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="42" height="42" alt="VsCode" /><br>VsCode
     </td>
     <td align="center" width="96">
