@@ -1,4 +1,3 @@
-
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=00fdb8&center=true&width=435&repeat=false&lines=%22Hello+there!+%F0%9F%91%8B%F0%9F%8F%BB%22;%22I'm+Nitrix!%22;%22Welcome+to+my+profile!%22" alt="Hello it's Nitrix" />
 
 My name is Nitrix and I'm an Intermediate Developer. I'm from India.  
@@ -31,34 +30,40 @@ const nitrix4ly = {
 
 *Projects*
 
-- [Triff](https://github.com/nitrix4ly/triff)
-- [Oxius](https://github.com/nitrix4ly/oxius)
-  
+- [Discord Bot System](https://github.com/nitrix4ly/discord-bot)
+- [Mini Flask API](https://github.com/nitrix4ly/flask-api)
+- [Portfolio Site](https://github.com/nitrix4ly/portfolio)
 
-<h2 align="center">💻 Favourite Tools and Technologies:</h2>
+<h2 align="center">ðŸ’» Favourite Tools and Technologies:</h2>
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" width="65" height="65" alt="Python" /><br>Python</td>
+        <img src="https://skillicons.dev/icons?i=python" width="52" height="52" alt="Python" /><br>Python</td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=go" width="65" height="65" alt="Golang" /><br>Golang</td>
+        <img src="https://skillicons.dev/icons?i=go" width="52" height="52" alt="Golang" /><br>Golang</td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" /><br>HTML</td>
+        <img src="https://skillicons.dev/icons?i=html" width="52" height="52" alt="HTML" /><br>HTML</td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS" /><br>CSS</td>
+        <img src="https://skillicons.dev/icons?i=css" width="52" height="52" alt="CSS" /><br>CSS</td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" /><br>Bootstrap</td>
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="52" height="52" alt="Bootstrap" /><br>Bootstrap</td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=javascript" width="65" height="65" alt="JavaScript" /><br>JavaScript</td>
+        <img src="https://skillicons.dev/icons?i=javascript" width="52" height="52" alt="JavaScript" /><br>JavaScript</td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" /><br>Git</td>
+        <img src="https://skillicons.dev/icons?i=git" width="52" height="52" alt="Git" /><br>Git</td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" /><br>MongoDB</td>
+        <img src="https://skillicons.dev/icons?i=mongodb" width="52" height="52" alt="MongoDB" /><br>MongoDB</td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" /><br>MySQL</td>
-  </tr>
+        <img src="https://skillicons.dev/icons?i=mysql" width="52" height="52" alt="MySQL" /><br>MySQL</td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="52" height="52" alt="VsCode" /><br>VsCode
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=aws" width="52" height="52" alt="AWS" /><br>AWS
+    </td>
+</tr>
 </table>
 <br><br>
 </div>
