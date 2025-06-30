@@ -18,7 +18,7 @@ const nitrix4ly = {
             python: ["Flask", "FastAPI"],
             go: ["net/http"]
         },
-        databases: ["MongoDB", "SQlite"],
+        databases: ["MongoDB", "SQLite"],
         misc: ["Git", "Socket.IO"]
     },
     architecture: ["REST API", "Monolithic"],
@@ -47,19 +47,17 @@ const nitrix4ly = {
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="42" height="42" alt="CSS" /><br>CSS</td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="42" height="$2" alt="Bootstrap" /><br>Bootstrap</td>
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="42" height="42" alt="Bootstrap" /><br>Bootstrap</td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="42" height="42" alt="Git" /><br>Git</td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="42" height="42" alt="MongoDB" /><br>MongoDB</td>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="42" height="42" alt="SQLite3"/>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="42" height="42" alt="VsCode" /><br>VsCode
-    </td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="42" height="42" alt="SQLite3" /><br>SQLite3</td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=aws" width="42" height="42" alt="AWS" /><br>AWS
-    </td>
+        <img src="https://skillicons.dev/icons?i=vscode" width="42" height="42" alt="VsCode" /><br>VsCode</td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=aws" width="42" height="42" alt="AWS" /><br>AWS</td>
 </tr>
 </table>
 <br><br>
