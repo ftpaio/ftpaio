@@ -18,7 +18,7 @@ const nitrix4ly = {
             python: ["Flask", "FastAPI"],
             go: ["net/http"]
         },
-        databases: ["MongoDB", "MySQL", "SQLite"],
+        databases: ["MongoDB", "SQlite"],
         misc: ["Git", "Socket.IO"]
     },
     architecture: ["REST API", "Monolithic"],
@@ -53,8 +53,6 @@ const nitrix4ly = {
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="42" height="42" alt="MongoDB" /><br>MongoDB</td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="42" height="42" alt="MySQL" /><br>MySQL</td>
-      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="42" height="42" alt="VsCode" /><br>VsCode
     </td>
     <td align="center" width="96">
