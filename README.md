@@ -8,7 +8,7 @@ My name is Nitrix and I'm an Intermediate Developer. I'm from India.
 ```javascript
 const nitrix4ly = {
     pronouns: "He" | "Him",
-    code: ["Python", "HTML", "CSS", "Golang", "JavaScript", "Bootstrap", "SQL", "MongoDB"],
+    code: ["Python", "HTML", "CSS", "Golang", "Bootstrap", "SQL", "MongoDB"],
     askMeAbout: ["Web Development", "Discord Bots", "Open Source"],
     technologies: {
         frontEnd: {
@@ -48,8 +48,6 @@ const nitrix4ly = {
         <img src="https://skillicons.dev/icons?i=css" width="42" height="42" alt="CSS" /><br>CSS</td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="42" height="$2" alt="Bootstrap" /><br>Bootstrap</td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=javascript" width="42" height="42" alt="JavaScript" /><br>JavaScript</td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="42" height="42" alt="Git" /><br>Git</td>
     <td align="center" width="96">
