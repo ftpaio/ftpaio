@@ -32,6 +32,10 @@ const nitrix4ly = {
 
 - [Triff Database](https://github.com/nitrix4ly/triff)
 - [Oxius Requests](https://github.com/nitrix4ly/oxius)
+- [T10](https://github.com/nitrix4ly/t10)
+- [twilight](https://github.com/nitrix4ly/twilight)
+- [Comet](https://github.com/nitrix4ly/comet)
+
 
 <h2 align="center">💻 Favourite Tools and Technologies:</h2>
 
