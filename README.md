@@ -8,7 +8,7 @@ Currently learning and experimenting with **backend development**, diving deep i
 **C, Golang, Python, JavaScript, SQL**
 
 ### Connect  
-- **Portfolio:** [waris.lol](https://waris.lol)  
+- **Biolink:** [waris.lol](https://waris.lol)  
 - **Email:** [mail@waris.lol](mailto:mail@waris.lol)
 
 ## GitHub Stats  
