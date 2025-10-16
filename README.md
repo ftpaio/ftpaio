@@ -19,4 +19,8 @@ Currently learning and experimenting with **backend development**, diving deep i
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itzwaris&style=flat&color=lightgray" alt="profile views"/>
+  <img src="https://api.statusbadges.me/badge/status/399231443945127937?simple=true" alt="discord status"/>
+  <a href="https://api.statusbadges.me/openspotify/399231443945127937">
+    <img src="https://api.statusbadges.me/badge/spotify/399231443945127937" alt="spotify playing"/>
+  </a>
 </p>
