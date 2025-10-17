@@ -1,5 +1,5 @@
 # Hey there!  
-I’m **Waris**, a beginner **backend developer** who loves to learn, explore, and build cool stuff.  
+I’m **Varixza** aka **Waris**, a beginner **backend developer** who loves to learn, explore, and build cool stuff.  
 
 ### What I Do  
 Currently learning and experimenting with **backend development**, diving deep into how systems and servers work, and improving my skills every day.  
