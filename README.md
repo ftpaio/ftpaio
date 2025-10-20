@@ -9,7 +9,7 @@ Currently learning and experimenting with **backend development**, diving deep i
 
 ### Connect  
 - **Biolink:** [waris.lol](https://waris.lol)  
-- **Email:** [varixza@waris.lol](mailto:mail@waris.lol)
+- **Email:** [mail@waris.lol](mailto:mail@waris.lol)
 
 ## GitHub Stats  
 <p align="center">
