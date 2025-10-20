@@ -1,5 +1,5 @@
 # Hey there!  
-I’m **Varixza** aka **Waris**, a beginner **backend developer** who loves to learn, explore, and build cool stuff.  
+I’m **Waris**, a beginner **backend developer** who loves to learn, explore, and build cool stuff.  
 
 ### What I Do  
 Currently learning and experimenting with **backend development**, diving deep into how systems and servers work, and improving my skills every day.  
@@ -13,12 +13,12 @@ Currently learning and experimenting with **backend development**, diving deep i
 
 ## GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats-steel-omega.vercel.app/api?username=varixza&show_icons=true&include_all_commits=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long" height="160"/>
-  <img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=varixza&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10" height="160"/>
+  <img src="https://github-readme-stats-steel-omega.vercel.app/api?username=ftpaio&show_icons=true&include_all_commits=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long" height="160"/>
+  <img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=ftpaio&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=varixza&style=flat&color=lightgray" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=ftpaio&style=flat&color=lightgray" alt="profile views"/>
   <img src="https://api.statusbadges.me/badge/status/399231443945127937?simple=true" alt="discord status"/>
   <a href="https://api.statusbadges.me/openspotify/399231443945127937">
     <img src="https://api.statusbadges.me/badge/spotify/399231443945127937" alt="spotify playing"/>
